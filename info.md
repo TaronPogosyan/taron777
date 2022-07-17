@@ -2,4 +2,4 @@
 
 git clone url
 
-git push
+Здесь будет конфликт
